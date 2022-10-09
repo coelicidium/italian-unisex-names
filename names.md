@@ -1,0 +1,13 @@
+Andrea
+Blu
+Celeste
+Cremisi
+Diamante
+Elia
+Felice
+Fiore
+Luce
+Menta
+Nico 
+Sasha
+Turchese
