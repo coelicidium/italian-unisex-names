@@ -26,7 +26,10 @@ Lapis
 Leto
 Levante
 Luce
+Marea
+Miele
 Menta
+Nadir
 Neve
 Nico
 Noa
@@ -34,4 +37,7 @@ Opale
 Pace
 Sasha
 Sole
+Tilde
 Turchese
+Verde
+Zaffiro
