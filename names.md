@@ -1,4 +1,5 @@
 Andrea
+Audace
 Blu
 Celeste
 Cremisi
@@ -8,6 +9,8 @@ Felice
 Fiore
 Luce
 Menta
-Nico 
+Neve
+Nico
+Pace
 Sasha
 Turchese
